@@ -1,0 +1,1 @@
+Bailando Solo — Descarga y organiza música desde YouTube en alta calidad, sin humo corporativo, con Electron + Python + yt-dlp. Pruébalo aquí: [Bailando Solo](https://hachimaki-dev.github.io/BailandoSolo/?utm_source=chatgpt.com) · Repo: [GitHub Repo](https://github.com/hachimaki-dev/BailandoSolo?utm_source=chatgpt.com)
