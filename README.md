@@ -1,3 +1,1 @@
-# Hola!, léelo, con urgencia -> https://hachimaki-dev.github.io/recomienda/#r/intelligence-explosion
-
 #1 -> Bailando Solo — Descarga y organiza música desde YouTube en alta calidad. Pruébalo aquí: [Bailando Solo](https://hachimaki-dev.github.io/BailandoSolo/?utm_source=chatgpt.com) · Repo: [GitHub Repo](https://github.com/hachimaki-dev/BailandoSolo?utm_source=chatgpt.com)
